@@ -2,9 +2,20 @@
 
 기술문서를 분석 후 진단보고서를 만드는 과정입니다. 
 
+---
+
+## 사용법
+
 `npm install pdf-creator-node`
 
-안되는 기능들.. (업데이트 중)
+`node createpdf.js`
+
+`nodemon createpdf.js`
+
+---
+
+## 안되는 기능 (업데이트중)
+
 - a4 양식에 맞춰 통일이 잘 안됨
     - HTML 미리보기랑 안 맞음
     - 컴퓨터마다 사이즈 다르게 추출됨
